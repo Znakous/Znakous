@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola mundo 🫶
 
 <!--
 **Znakous/Znakous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - Vladislav Znak, 19 y.o., Saint-Petersburg, Russia
- - ITMO Softfare Engineering 1st course student
+ - 👁👄👁 Vladislav Znak, 19 y.o.
+ - 🗺 Location: Earth, Solar System, Orion Arm, Milky Way, Observable Universe
+ - 🤓 ITMO Softfare Engineering 1st course student
 
 ![LeetCode](https://leetcard.jacoblin.cool/Znakous)
