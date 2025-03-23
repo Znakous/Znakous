@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - Vladislav Znak, 19 y.o., Saint-Petersburg, Russia
+ - ITMO Softfare Engineering 1st course student
+
+![LeetCode](https://leetcard.jacoblin.cool/Znakous)
