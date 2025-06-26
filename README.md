@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
  - 👁👄👁 Vladislav Znak, 19 y.o.
  - 🗺 Location: Earth, Solar System, Orion Arm, Milky Way, Observable Universe
- - 🤓 ITMO Softfare Engineering 1st course student
+ - 🤓 ITMO Software Engineering 1st course student
 
 ![LeetCode](https://leetcard.jacoblin.cool/Znakous)
