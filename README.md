@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - 👁👄👁 Vladislav Znak, 19 y.o.
+ - 👁👄👁 Vladislav Znak, 20 y.o.
  - 🗺 Location: Earth, Solar System, Orion Arm, Milky Way, Observable Universe
  - 🤓 ITMO Software Engineering 2nd course student
 
